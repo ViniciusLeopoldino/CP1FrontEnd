@@ -1,0 +1,17 @@
+/*Nome:Vinicius Leopoldino de Oliveira / RM:557047*/
+/*Nome:Pablo Lopes Doria de Andrade / RM:556834*/
+          .grid-container {
+          display: grid;
+          grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+          background-color: rgb(0, 0, 0);
+          padding: 10px;
+        }
+
+        .grid-item {
+          background-color: rgba(255, 255, 255, 0.8);
+          border: 1px solid rgba(0, 0, 0, 0.8);
+          padding: 10px;
+          font-size: 30px;
+          text-align: center;
+        }
+      
